@@ -10,9 +10,9 @@ DPCineplex is a cross-platform mobile application developed using Flutter, desig
 - **Ticket Booking**: Select preferred seats and book tickets seamlessly.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/74f9a7c8-4988-47b7-b8e5-e33c225b687a" width="300" />
-<img src="https://github.com/user-attachments/assets/1d3a221a-5983-4502-8449-d8773b5245f7" width="300" />
-<img src="https://github.com/user-attachments/assets/7d53b2ac-3fea-4c24-8c04-73a539d2fc58" width="300" />
+<img src="https://github.com/user-attachments/assets/74f9a7c8-4988-47b7-b8e5-e33c225b687a" width="200" />
+<img src="https://github.com/user-attachments/assets/1d3a221a-5983-4502-8449-d8773b5245f7" width="200" />
+<img src="https://github.com/user-attachments/assets/7d53b2ac-3fea-4c24-8c04-73a539d2fc58" width="200" />
 
 
 ## Installation
